@@ -1,0 +1,11 @@
+Text,Sentiment,Intent
+"I love this product",Positive,Praise
+"This service is terrible",Negative,Complaint
+"Can I get more details?",Neutral,Inquiry
+"Very fast delivery",Positive,Praise
+"I'm not happy with the quality",Negative,Complaint
+"How does this work?",Neutral,Question
+"Excellent experience",Positive,Praise
+"This is disappointing",Negative,Complaint
+"Please assist me",Neutral,Request
+"Great support team",Positive,Praise
